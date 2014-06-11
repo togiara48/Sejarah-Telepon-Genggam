@@ -10,10 +10,10 @@ Anggota 1:
 	NIM: 121112074
 Anggota 2:
 	Nama: SALOMO FH SIMANJUNTAK
-	NIM: 12111
+	NIM: 121113533
 Anggota 3:
 	Nama: TOGI ARA LIMBONG
-	NIM: 12111
+	NIM: 121113711
 Anggota 4:
 	Nama: WILLIAM PRATAMA NAINGGOLAN
 	NIM: 121112511
@@ -28,11 +28,11 @@ Scrummaster: Wanry Lumban Batu (121112074)
 
 Sprint 2:
 04/6 - 07/6
-Scrummaster: Salomo FH Simanjuntak (12111)
+Scrummaster: Salomo FH Simanjuntak (121113533)
 
 Sprint 3:
 07/6 - 09/6 
-Scrummaster: Togiara Limbong (12111)
+Scrummaster: Togiara Limbong (121113711)
 
 Sprint 4:
 07/6 - 09/6 
@@ -52,12 +52,12 @@ Salomo FH Simanjuntak:
 2.
 3.
 
-Togiara Limbong:
+Togi ara silvester Limbong:
 1. Kendala Install Bespoke
 2.
 3.
 
-William Pratama Nainggola
+William Pratama Nainggolan
 1. Kendala Install Bespoke
 2.
 3.
@@ -74,12 +74,12 @@ Salomo FH Simanjuntak:
 2.
 3.
 
-Togiara Limbong:
+Togi ara silvester Limbong:
 1. Masih Kendala Bespoke
 2.
 3.
 
-William Pratama Nainggola
+William Pratama Nainggolan
 1. Masih Kendala Bespoke
 2.
 3.
@@ -96,12 +96,12 @@ Salomo FH Simanjuntak:
 2.
 3.
 
-Togiara Limbong:
+Togi ara silvester Limbong:
 1. Kendala Install Bespoke
 2.
 3.
 
-William Pratama Nainggola
+William Pratama Nainggolan
 1. Kendala Install Bespoke
 2.
 3.
@@ -118,12 +118,12 @@ Salomo FH Simanjuntak:
 2.
 3.
 
-Togiara Limbong:
+Togi ara silvester Limbong:
 1. Kosong
 2.
 3.
 
-William Pratama Nainggola
+William Pratama Nainggolan
 1. Kosong
 2.
 3.
@@ -139,12 +139,12 @@ Salomo FH Simanjuntak:
 2.
 3.
 
-Togiara Limbong:
+Togi ara silvester Limbong:
 1. Kendala Commit dan push
 2.
 3.
 
-William Pratama Nainggola
+William Pratama Nainggolan
 1. Jenis Ponsel Berdasarkan Fungsi : Ponsel Fashion 
 2.
 3.
@@ -160,12 +160,12 @@ Salomo FH Simanjuntak:
 2. Commit dan Push Jenis Ponsel Berdasarkan Fungsi : Ponsel Standar
 3.
 
-Togiara Limbong:
+Togi ara silvester Limbong:
 1. -
 2.
 3.
 
-William Pratama Nainggola
+William Pratama Nainggolan
 1. Melanjutkan Commit
 2.
 3.
@@ -182,12 +182,12 @@ Salomo FH Simanjuntak:
 2.
 3.
 
-Togiara Limbong:
+Togi ara silvester Limbong:
 1. Commit Dan Push  Perkembangan = Generasi 0
 2.
 3.
 
-William Pratama Nainggola
+William Pratama Nainggolan
 1. Edit Commit Ponsel Fashion
 2.
 3.
@@ -205,12 +205,12 @@ Salomo FH Simanjuntak:
 2.
 3.
 
-Togiara Limbong:
+Togi ara silvester Limbong:
 1. Kosong
 2.
 3.
 
-William Pratama Nainggola
+William Pratama Nainggolan
 1. Kosong
 2.
 3.
@@ -227,12 +227,12 @@ Salomo FH Simanjuntak:
 2.
 3.
 
-Togiara Limbong:
+Togi ara silvester Limbong:
 1. Commit Dan Push : Perkembangan = Generasi II
 2.
 3.
 
-William Pratama Nainggola
+William Pratama Nainggolan
 1. Kosong
 2.
 3.
@@ -245,17 +245,17 @@ Wanry Lumban Batu:
 2. 
 3. 
 Salomo FH Simanjuntak:
-1. -
+1. commit and push : perkembangan Generasi IV
 2.
 3.
 
-Togiara Limbong:
-1. -
+Togi ara silvester Limbong:
+1. melanjutkan commit and push : perkembangan = Generasi II
 2.
 3.
 
-William Pratama Nainggola
-1. -
+William Pratama Nainggolan
+1. commit and push : Cara Kerja Ponsel
 2.
 3.
 ------------------------------------
